@@ -6,6 +6,7 @@ terraform {
     key                  = "a.tfstate"
     
   }
+  
  
   required_providers {
     azurerm = {
